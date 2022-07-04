@@ -5,6 +5,7 @@ body{
 }
 section{
     height: 500px;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 40%;
@@ -28,7 +29,7 @@ h3{
 }
 p{
     text-align: justify;
-    font-size: 30px;
+    font-size: 25px;
 }
 a{
     text-decoration: none;
@@ -43,4 +44,22 @@ a{
 }
 .stylish-font1{
     font-family: 'Dancing Script', cursive;
+}
+.box{
+    box-shadow: 10px 10px 30px rgba(88, 87, 87, 0.859);
+    padding-right: 2%;
+}
+.box-border-color1{
+    border-left: 8px solid tomato;
+    height: 350px;
+}
+.box-border-color2{
+    border-left: 8px solid navy;
+    height: 350px;
+}
+.experience-box p{
+    font-size: 15px;
+}
+.experience-box h3{
+    font-size: 25px;
 }
