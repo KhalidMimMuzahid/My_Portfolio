@@ -45,17 +45,27 @@ a{
 .stylish-font1{
     font-family: 'Dancing Script', cursive;
 }
+
+.half-width1{
+    width: 40%;
+    float: left;
+    margin-left: 2.5%;
+    padding-left: 2.5%;
+    margin-right: 2%;
+}
 .box{
     box-shadow: 10px 10px 30px rgba(88, 87, 87, 0.859);
-    padding-right: 2%;
+    
 }
 .box-border-color1{
     border-left: 8px solid tomato;
     height: 350px;
+    padding-right: 2%;
 }
 .box-border-color2{
     border-left: 8px solid navy;
     height: 350px;
+    padding-right: 2%;
 }
 .experience-box p{
     font-size: 15px;
